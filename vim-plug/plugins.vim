@@ -12,6 +12,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'jiangmiao/auto-pairs'
     Plug 'dracula/vim'
     Plug 'scrooloose/NERDTree'
-    Plug 'nvim-telescope/telescope.nvim'
-    Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.0' }
+    Plug 'rust-lang/rust.vim'
+    Plug 'vim-airline/vim-airline'
 call plug#end()
